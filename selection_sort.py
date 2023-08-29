@@ -28,4 +28,3 @@ def sorting_algo(arr):
 print(sorting_algo([10, 20, 6, 4, 3, 3, 4]))
 print(sorting_algo([5,4,3,2,1]))
 print(sorting_algo([5,4,3,10,30,20,40,20,2,1]))
-
